@@ -17,12 +17,6 @@ I am a final-year Computer Engineering student at Shariaty University with a str
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SabaAnsari2002&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SabaAnsari2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SabaAnsari2002&icon=0&color=1)](https://visitcount.itsvg.in)
 
